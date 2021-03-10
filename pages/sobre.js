@@ -1,4 +1,4 @@
-import Link from 'nexr/link'
+import Link from 'next/link'
 
 function Sobre() {
     return (<div>
