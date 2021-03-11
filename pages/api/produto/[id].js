@@ -1,5 +1,5 @@
 import Produtos from "../../produtos/[id]"
 
-export default function Produtos(request, response){
+export default function Produto(request, response){
     console.log(request.query.id);
 }
