@@ -8,5 +8,4 @@ function Sobre() {
         </Link>
     </div>)
 }
-
 export default Sobre
