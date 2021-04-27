@@ -1,0 +1,10 @@
+HTTrack3.49-2 launched on Mon, 19 Apr 2021 14:32:28 at https://www.instagram.com/accounts/login/
+(httrack https://www.instagram.com/accounts/login/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:32:29	Error: 	"Unknown error" (429) at link https://www.instagram.com/accounts/login/ (from primary/primary)
+14:32:29	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.instagram.com	TRUE	/	FALSE	1999999999	mid	YH286QAEAAHONWHJadw9mFtVjbwk
+.instagram.com	TRUE	/	FALSE	1999999999	ig_did	D8E0D03C-349C-4838-84D8-260729A9AA27
+.instagram.com	TRUE	/	FALSE	1999999999	ig_nrcb	1
+
